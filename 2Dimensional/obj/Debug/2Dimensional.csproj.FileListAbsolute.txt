@@ -1,0 +1,8 @@
+D:\DAY-4\Example3\2Dimensional\2Dimensional\bin\Debug\2Dimensional.exe.config
+D:\DAY-4\Example3\2Dimensional\2Dimensional\bin\Debug\2Dimensional.exe
+D:\DAY-4\Example3\2Dimensional\2Dimensional\bin\Debug\2Dimensional.pdb
+D:\DAY-4\Example3\2Dimensional\2Dimensional\obj\Debug\2Dimensional.csproj.AssemblyReference.cache
+D:\DAY-4\Example3\2Dimensional\2Dimensional\obj\Debug\2Dimensional.csproj.SuggestedBindingRedirects.cache
+D:\DAY-4\Example3\2Dimensional\2Dimensional\obj\Debug\2Dimensional.csproj.CoreCompileInputs.cache
+D:\DAY-4\Example3\2Dimensional\2Dimensional\obj\Debug\2Dimensional.exe
+D:\DAY-4\Example3\2Dimensional\2Dimensional\obj\Debug\2Dimensional.pdb
